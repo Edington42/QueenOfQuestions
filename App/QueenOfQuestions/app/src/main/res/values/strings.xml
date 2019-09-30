@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Queen Of Questions</string>
+
+    <string name="animal_button_string">Animal</string>
+    <string name="tbd_string">TBD</string>
+    <string name="yes_string">YES</string>
+    <string name="no_string">NO</string>
+    <string name="sometimes_string">SOMETIMES</string>
+    <string name="idk_string">I DON"T KNOW</string>
+    <string name="dummy_content">What Are You \n Thinking Of?</string>
+    <string-array name="questions">
+        <item>Does it live in the water?</item>
+        <item>Des it have fur?</item>
+        <item>Would it be an exotic pet?</item>
+        <item>Would you find it on a farm?</item>
+        <item>Is it brown?</item>
+        <item>Is it bigger than a breadbox?</item>
+        <item>Does it lay eggs?</item>
+        <item>Does it eat other animals?</item>
+        <item>Does it eat plants?</item>
+        <item>Does it have four legs?</item>
+    </string-array>
+    <string name="guess">Is it a </string>
+    <string-array name="guesses">
+        <item>shark?</item>
+        <item>dog?</item>
+        <item>cat?</item>
+        <item>lobster?</item>
+        <item>T-Rex?</item>
+        <item>hippo?</item>
+        <item>unicorn?</item>
+        <item>pokemon?</item>
+    </string-array>
+    <string name="win_statement">I read your mind!</string>
+    <string name="lose_statement">Darn, I thought I had it!</string>
+    <string-array name="win_strings">
+        <item>Darn!</item>
+        <item>I\'ll trick you next time!</item>
+        <item>Lucky guess...</item>
+        <item>How did you know?</item>
+    </string-array>
+    <string-array name="lose_strings">
+        <item>Not even close.</item>
+        <item>Better luck next time.</item>
+        <item>Suck it!</item>
+        <item>I\'ll never lose.</item>
+    </string-array>
+</resources>
